@@ -1,0 +1,6 @@
+This project simulates a school accepting enrollment from freshman students. The program should be able to show the list
+ of the students in a table like manner.
+ every student should have a first name, last name, date of birth, course and previous school.
+ The admissions office will be accepting the enrollments.0
+   The admissions office should be able to edit students record .
+
